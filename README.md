@@ -17,3 +17,4 @@ This extension is for opencart
 `Canceled Status`: Cancelled<br/>
 `Failed Status`: Failed<br/>
 `Chargeback Status`: Chargeback
+
