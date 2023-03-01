@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76e08567-bd5e-4de3-b492-fe595e8d43e0" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/glocash3.0.ocmod.zip" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/glocash3.1.ocmod.zip" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/glocash.ocmod.zip" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -14,14 +13,38 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/view/template/extension/payment/glocash.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="5011">
+              <caret line="274" column="16" selection-start-line="274" selection-start-column="16" selection-end-line="274" selection-end-column="16" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/model/extension/payment/glocash.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1368">
+              <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="144">
-                <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
-              </first_editor>
-              <second_editor />
+        <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/controller/extension/payment/glocash.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="82">
+              <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/controller/extension/payment/glocash.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="6480">
+              <caret line="198" column="16" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
             </state>
           </provider>
         </entry>
@@ -31,16 +54,22 @@
   <component name="FindInProjectRecents">
     <findStrings>
       <find>glocash_secretkey</find>
-      <find>payment_glocash_secretkey</find>
       <find>payment_glocash_test</find>
       <find>paycurl</find>
       <find>ControllerExtensionPaymentGlocash</find>
       <find>curl</find>
       <find>error_secretkey</find>
       <find>input-method</find>
-      <find>payment_glocash_appid</find>
       <find>entry_secretkey</find>
+      <find>payment_glocash_appid</find>
+      <find>heading_title</find>
+      <find>payment_glocash_terminal</find>
+      <find>payment_glocash_secretkey</find>
+      <find>error_email</find>
+      <find>get_apikey</find>
+      <find>addOrderHistory</find>
       <find>payment_glocash_email</find>
+      <find>$this-&gt;error['email']</find>
       <find>appid</find>
     </findStrings>
   </component>
@@ -56,17 +85,12 @@
         <option value="$PROJECT_DIR$/glocash3.1.ocmod/upload/admin/view/template/extension/payment/glocash.twig" />
         <option value="$PROJECT_DIR$/glocash3.1.ocmod/upload/catalog/controller/extension/payment/glocash.php" />
         <option value="$PROJECT_DIR$/README.md" />
-      </list>
-    </option>
-  </component>
-  <component name="ProjectConfigurationFiles">
-    <option name="files">
-      <list>
-        <option value="$PROJECT_DIR$/.idea/plugin_opencart3.0.iml" />
-        <option value="$PROJECT_DIR$/.idea/misc.xml" />
-        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
-        <option value="$PROJECT_DIR$/.idea/modules.xml" />
-        <option value="$PROJECT_DIR$/glocash3.0.ocmod/.idea/glocash3.0.ocmod.iml" />
+        <option value="$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/view/template/extension/payment/glocash.twig" />
+        <option value="$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/model/extension/payment/glocash.php" />
+        <option value="$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/controller/extension/payment/glocash.php" />
+        <option value="$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/language/en-gb/extension/payment/glocash.php" />
+        <option value="$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/language/english/extension/payment/glocash.php" />
+        <option value="$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/controller/extension/payment/glocash.php" />
       </list>
     </option>
   </component>
@@ -80,25 +104,47 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
-              <item name="plugin_opencart" type="b2602c69:ProjectViewProjectNode" />
-              <item name="plugin_opencart" type="462c0819:PsiDirectoryNode" />
+              <item name="plugin_opencart3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugin_opencart3.0" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugin_opencart3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugin_opencart3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Coinpal" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugin_opencart3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugin_opencart3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Coinpal" type="462c0819:PsiDirectoryNode" />
+              <item name="glocash.ocmod" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="plugin_opencart3.0" type="b2602c69:ProjectViewProjectNode" />
+              <item name="plugin_opencart3.0" type="462c0819:PsiDirectoryNode" />
+              <item name="Glocash" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../plugin_woocommerce" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\www\plugin_opencart3.0\Coinpal\glocash.ocmod\upload\admin\view\image\payment" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -126,17 +172,18 @@
       <workItem from="1640568766884" duration="591000" />
       <workItem from="1642750719853" duration="8064000" />
       <workItem from="1642761862969" duration="267000" />
+      <workItem from="1677552361716" duration="14481000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="15930000" />
+    <option name="totallyTimeSpent" value="30411000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11513859" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.19259657" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -149,7 +196,7 @@
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="8" />
       <window_info anchor="bottom" id="Version Control" order="9" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="10" visible="true" weight="0.1804009" />
+      <window_info anchor="bottom" id="Terminal" order="10" visible="true" weight="0.5949074" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -170,13 +217,71 @@
     <entry file="file://$PROJECT_DIR$/glocash3.1.ocmod/upload/admin/view/template/extension/payment/glocash.twig" />
     <entry file="file://$PROJECT_DIR$/glocash3.1.ocmod/upload/admin/controller/extension/payment/glocash.php" />
     <entry file="file://$PROJECT_DIR$/glocash3.1.ocmod/upload/catalog/controller/extension/payment/glocash.php" />
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/view/template/extension/payment/glocash_channel.twig">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/controller/extension/payment/glocashfailure.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1271">
+          <caret line="1" column="6" selection-start-line="1" selection-start-column="6" selection-end-line="1" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="144">
-            <caret line="4" column="31" selection-start-line="4" selection-start-column="31" selection-end-line="4" selection-end-column="31" />
+          <first_editor relative-caret-position="347">
+            <caret line="15" column="30" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
           </first_editor>
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/view/template/extension/payment/glocash.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="5011">
+          <caret line="274" column="16" selection-start-line="274" selection-start-column="16" selection-end-line="274" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/model/extension/payment/glocash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1368">
+          <caret line="38" column="28" selection-start-line="38" selection-start-column="28" selection-end-line="38" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/language/english/extension/payment/glocash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1584">
+          <caret line="44" selection-start-line="44" selection-end-line="44" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/language/en-gb/extension/payment/glocash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="2" column="48" lean-forward="true" selection-start-line="2" selection-start-column="48" selection-end-line="2" selection-end-column="48" />
+          <folding>
+            <element signature="n#style#0;n#img#0;n#a#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/admin/controller/extension/payment/glocash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="6480">
+          <caret line="198" column="16" selection-start-line="198" selection-start-column="16" selection-end-line="198" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Coinpal/glocash.ocmod/upload/catalog/controller/extension/payment/glocash.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="82">
+          <caret line="34" column="23" lean-forward="true" selection-start-line="34" selection-start-column="23" selection-end-line="34" selection-end-column="23" />
         </state>
       </provider>
     </entry>
